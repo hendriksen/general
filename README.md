@@ -10,6 +10,8 @@
   - Thijs
 
 ### web
+- tomcat8
+  - Gerrit + Erna
 - geoserver
   - Gerrit + Erna
 - nginx
